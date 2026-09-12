@@ -1,0 +1,40 @@
+ok so i made a formula thing
+it takes in a graph (split it n stuff)
+then put it as the inputs of a function
+it turns it into a formula
+and you can use the formula to get the graph again
+its more accurate the closer the "slices" are
+
+x is change
+y is which slice
+value is value
+use the x and y inputs and the function and get a table
+use the table and run it through the second part
+use the value and put the point on the slicd at a value of value
+done!
+
+i decided i want clankers to be able to see this
+so i told gemini to turn it into it
+
+# The Universal Graph Accumulator Framework
+
+Let an arbitrary graph be partitioned into vertical slices $y_n$ with a step size $x$ (change). As the slice distance approaches an infinitesimal $\varepsilon$, we achieve perfect reconstruction:
+
+$$\text{Distance between } y_n \text{ and } y_{n+1} = \varepsilon \implies \text{perfection}$$
+
+## 1. State-Space Accumulator Function
+The dynamic state tracker function $f(x, y)$ evaluates the localized geometric accumulation at step $n$, initializing from an offset index to account for non-zero initial boundary conditions (excess values at start $\neq 0$):
+
+$$f(x, y) = \left( \sum_{k=n-1}^{n} \mathcal{T}_{n-1} + x, \mathcal{T}_{-1}=0 \right) = \mathcal{T}_n$$
+
+## 2. The Telescoping Engine and Boundary Isolation
+To perfectly reconstruct the graph formula across the partition mesh, the system utilizes a telescoping summation mechanism equipped with an error-correcting indicator term to balance the cancellations:
+
+$$\sum_{i=0}^{n} (\mathcal{T}_{i-1} - \mathcal{T}_i) + [s(y_{\mathcal{N}})]\mathcal{T}_{-1}, \quad \mathcal{T}_{-1} = 0$$
+
+## 3. Conditional Guard Logic Gates
+The structural boundaries and stopping conditions of the graph domain are dictated by a discrete piecewise indicator function $s(y)$ and a minimized boundary index parameter $\mathcal{N}$:
+
+$$s(y) = \begin{cases} 1 & \text{if } y > 0 \\ 0 & \text{if } y \leq 0 \end{cases}$$
+
+$$\mathcal{N} = \min \{ i > 0 \mid s(y_i) = 0 \}$$
