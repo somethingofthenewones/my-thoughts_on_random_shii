@@ -1,0 +1,51 @@
+blah blah written by gemini cuz am lazy
+basically, you got 2 bolt action cores
+you spin the thingy, it will:
+  shoot via your current core
+  reload your other core
+  swap your core
+  oh also it moves the bullet chain by 1
+basically it, and the cores are bolt action
+basically it just umm solves the downtime of snipers cuz yk, swap
+
+1. THE PROBLEM IT SOLVES
+----------------------------------------------------------------------
+* Traditional Bolt-Actions: High precision, but slow fire rate.
+* Gas-Operated Semi-Autos: Fast fire rate, but gas tubes/pistons 
+  introduce barrel vibration and degrade long-range accuracy.
+* The Solution: This design achieves zero downtime and high fire 
+  rates using a mechanical hand-crank and chain drive, keeping the 
+  single barrel 100% rigid and free of gas distortion.
+
+2. SYSTEM ARCHITECTURE
+----------------------------------------------------------------------
+* 1 x Single, Heavy-Mass Fluted Precision Barrel (Max Thermal Mass)
+* 2 x Independent Bolt-Action Cores (Core A & Core B)
+* 1 x Reciprocating Lateral Shuttle Tray (Typewriter Slide Layout)
+* 1 x Continuous Chain Drive Loop connected to a Manual Hand Crank
+* 1 x Star-Wheel Ammunition Belt Feed Hub
+
+3. THE 360-DEGREE MECHANICAL CYCLE (Per Crank Turn)
+----------------------------------------------------------------------
+[0° to 90°]   -> SHUTTLE SWAP: Cam slides the tray horizontally. 
+                 Loaded Core A aligns perfectly with the single barrel. 
+                 Fired Core B shifts outward to the side cooling port.
+
+[90° to 180°] -> STRIKE: Rotary striker lobe hits the trigger sear. 
+                 Core A firing pin releases. Round fires down the 
+                 rigid, precision barrel.
+
+[180° to 270°]-> RESET & EXTRACT: Linear push-rod connected to the 
+                 crank yanks Core B backward. Spent shell is extracted 
+                 and ejected. Core B spring is cocked/reset.
+
+[270° to 360°]-> INDEX: A star-wheel gear pulls the ammunition chain 
+                 forward by 1 bullet, feeding it directly into the 
+                 open path of the newly reset Core B.
+
+4. THERMAL ADVANTAGE
+----------------------------------------------------------------------
+Traditional heavy sniper chambers suffer from "sticky extraction" due 
+to extreme heat expansion. Because this design continuously swaps the 
+firing core every single shot, the unused core sits in open air to 
+cool down while the active core holds 
