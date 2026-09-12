@@ -1,0 +1,13 @@
+ok so i'd usually never do this but ive thought of a ai model
+ok so the idea is, basically, you first have a cpu and ram, ok?
+so, this ram, you can overwrite and read from it, yea
+well, umm, ya see, err, the ai model changes itself (dynamic ai) on use
+of course, the values of the nodes always decay
+and uses trigger "node activation" (neuron activation lol) and it causes a type of memory
+now, this does mean kinda short-term memory, yea, but it is same session
+and then, it overwrites the ram and also reads from it, meaning it requires finite memory
+anyway, so, [2^(bit_width)]-1 would be the max value of the node
+and, [2^(bit_width)]^(node_count) would be the max potential memory of the ai
+thats the thing, infinite execution with static finite requirements, though with short-term memory
+
+pretty much so
