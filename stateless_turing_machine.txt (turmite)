@@ -1,0 +1,29 @@
+ok ok so its stupid how none of yall have made like a stateless turing machine
+unlike a traditional turing machine the write head and read head use more than 1 cell at once
+anyway it'll still work alr?
+
+first of all (insert subheading idgaf idk):
+  wolfram 2 3 turing machine is proven to be turing complete
+  the machine doesnt matter right? so i'll just rip out the truth table
+
+alr now the second of all:
+  this realization took me 2 days btw
+  basically if you make a thing that writes data forward, as in skip first cell and use the second, that cell can be used to write data
+  then, for the first layer, look right and left, 2 cells, those cells you write the "state"
+  the write head writes left right forward
+  the read head reads in a straight line
+
+why it works or sum idk:
+  like a turing machine, it ONLY moves LEFT and RIGHT by ONE CELL
+  that means when it reads in a line, it ALWAYS reads the PAST written state, and also the CURRENT VALUE
+  read, process, write, move, repeat, doesnt clog up
+
+idgaf bout yall scientists prolly gon go like "well its not proven to be turing complete"
+cuz honestly, it just cough cough "emulates a wolfram 2 3 turing machine truth table with a different architecture"
+oh and, if you want to engineer this, the simplest is binary and split the left right cells and the forward cells
+yk what that means:
+  [not filled]   [filled]   [not filled]
+  [not filled]   [filled]   [not filled]
+    [filled]   [not filled]   [filled]
+  it prints in the shape of a dick
+  hah
