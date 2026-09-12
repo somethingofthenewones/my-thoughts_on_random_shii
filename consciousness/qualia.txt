@@ -1,0 +1,26 @@
+the original text (that i wrote) only had 3 lines
+like one line one paragraph so i have to fix the format before save this
+
+if we get 2 subjects
+they don’t have exactly the same brain
+qualia is subjective and defined to self
+however, if you had a computational clone of yourself
+and gave both the same experience
+you could get a update in the memory for both
+
+if you had a computational clone
+with the same memory arch
+while all the rest of the brain is wired differently
+and tested, then you could check the memory’s update
+you could check whether it’s the same or not
+or maybe even make the sensory neurons the same to try again if that fails.
+
+if, somehow you’re able to do all this
+you could possibly not just find a way to overwrite, delete,
+or write memories into someone
+but also get a universal proof for qualia
+and figure out if it’s just a geometric shape that causes qualia to be a certain way, but also
+because the brains are wired differently, the raw data numbers (vec3 coordinates) will never look the same
+to prove it’s the “same geometric shape”, you need to look at the manifold topology instead of just the raw node values
+as in, when looking for the geometric shape
+look for topological invariants in the attractor trajectories, not just identical raw coordinate vectors
