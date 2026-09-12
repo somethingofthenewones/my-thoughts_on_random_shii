@@ -1,0 +1,19 @@
+so yall know earthmover from ultrakill?
+so, heres a idea i have on how to make him
+so, the main will be a mechanical ROM that commands other ROMs
+the branched ROMs all have code and stuff, and a piroity count
+then it goes to a mux that chooses what is most piroitized and then does that first
+the internal mechanical parts will be made of self-healing materials
+the joints will be like cascaded gear and rack, then you use a linear sum-er thing, and then use that with like IK and leverage to make joints n allat
+the legs will be pulled up, and let down, when it goes down due to gravity, you harvest the gravitational potential energy as well so that you can replenish energy spent on moving
+tthis does mean that moving has a energy prerequisite but you have no net energy loss
+anyway, you then have energy harvesting stuff that arent just these, such as atmospheric oressure, light, etc
+excess energy is used to power a particle accelerator, which sends antimatter to a containment facility inside of the earthmover
+the visual system for it is visual and sound btw
+when it wants to be used as a weapon, the barrel first shoots out a ionizing wave to turn the air (matter) infront of the barrel to make it plasma
+then it brings the antimatter there and stuff, before launching it all out with a strong percise electromagnetic wave
+ofc, the coating inside the barrel must repel the antimatter as well, so that it doesnt just, yk, explode itself
+the weapon would convert some parts of the target into pure energy, and also cause a explosion, unless the enemy had a shield made of antimatter
+if the enemy did have that, when they use it, most likely, itd interact with matter in every other spot that wasnt hit and wow
+yep pretty much so, and no, i wont be designing it, the materials that allow thisdont exist yet i think
+yes you can make the idea better, no i’m too lazy to update and add the rest
