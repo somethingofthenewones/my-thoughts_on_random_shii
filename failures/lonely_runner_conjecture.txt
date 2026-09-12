@@ -1,0 +1,4 @@
+so this one i tried to solve the lonely runner conjecture
+but i accidentally started calculating resonance instead of anti-resonance
+i accidentally then independently derived ergodic theory
+image comes seperate
