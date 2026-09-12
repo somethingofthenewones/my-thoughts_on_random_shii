@@ -1,0 +1,17 @@
+so i made this answer at school when bored
+this one is very special i think cuz i dont think anyone else made it this form
+ok so circles packed in a grid ok think of that
+see the negative space is the asteroid space and whatever?
+top and bottom point is color 6
+side points are color 7
+middle is color 5
+internal quadrant 1 is color 1
+internal quadrant 2 is color 2
+internal quadrant 3 is color 3
+internal quardant 4 is color 4
+
+in the axis-es internally, the axises must either all pick the color in the quadrant to the left or right of them
+this introduces chirality which is kindaaaa abusable
+also because you can do this asteroid shape this way, it inadvertently says you can also do so for circles
+so, the answer to the nelson whatever thing, with 7 colors, but with a more sane start
+image comes seperate
