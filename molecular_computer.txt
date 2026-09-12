@@ -1,0 +1,13 @@
+so umm another thought, so atoms bond to each other if they have a incomplete electron shell, right?
+so, what if you used something such as.. carbon, and then you bonded them into molecular structures
+then, you salt the molecules with electrons, including the internals, and possibly trap some electrons into certain places of the structure
+now, these electrons trapped in them can repel other electrons
+if you put a electron through it, it should be replelled by trapped electrons i think
+so then, with these, you could possibly make like, "marble rolling tunnels" for logic gates
+and then, assuming your structuee isnt salted with electrons, you can link 2 molecule structures (aka logic gates)
+and then, ummm, you have 2 logic gates with each other, now you can probably do this as much as you want and get what, a component?
+so, with that, you could make a really small computer that doenst quantum tunnel because it has a "large" mass, and umm, decoherence from the air so low chance of quantum tunneling?
+and then with that ummm, also means you could link 3 of these molecular computers up, and have like a "voting" system thats like, compares how much inputs say 1 and how many say 0 and outputs the more frequent one
+and then now you have a "singular" molecular computer that has a statistically impossible chance to be wrong and is very small and doesnt wear down and is er, low power, right
+-
+yeah thats it for my idea, i shouldve said this stuff earlier smh
