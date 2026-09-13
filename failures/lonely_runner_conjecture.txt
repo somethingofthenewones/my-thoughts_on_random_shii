@@ -1,4 +1,4 @@
 so this one i tried to solve the lonely runner conjecture
 but i accidentally started calculating resonance instead of anti-resonance
-i accidentally then independently derived ergodic theory
+i accidentally then independently derived ergodic theory, kroneckers density theorem, weyls  equidistribution, fractional part sawtooth waves, extrenal tight instances and ergodic flows on a torus
 image comes seperate
